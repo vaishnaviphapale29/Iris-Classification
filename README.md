@@ -68,7 +68,7 @@ The model is evaluated using:
 Install the required libraries:
 
 ```bash
-pip install -r Requirements.txt
+pip install -r requirements.txt
 ```
 
 ## How to Run
